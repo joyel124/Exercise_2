@@ -2,7 +2,7 @@
 
 A new Flutter project for practice.
 
-## Screanshot
+## Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/joyel124/Exercise_2/master/img/image.png)
 
